@@ -3,10 +3,6 @@
   <img src="https://komarev.com/ghpvc/?username=ihsansgb&label=Profile%20views&color=0e75b6&style=flat" alt="ihsansgb" />
 </div>
 
-<div align="center">
-<img width="100%" height = "180px" src="https://imgur.com/a/II3IEEq" alt="cover" />
-</div>
-
 ## 
 <img width="55%" align="right" alt="Github" src="https://github-readme-streak-stats.herokuapp.com/?user=isanbayo" alt="isanbayo" />
 
@@ -75,4 +71,4 @@
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ihsansgb&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ihsansgb/)
 
-<h6 align="right">Made with ❤️ by Me</h6>
+<h6 align="right">Made with ❤️ by BangFaroqi</h6>
