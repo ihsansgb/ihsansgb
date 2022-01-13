@@ -73,6 +73,6 @@
   </kbd>
 </p>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=bangfaroqi&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/bangfaroqi/)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=bangfaroqi&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ihsansgb/)
 
 <h6 align="right">Made with ❤️ by Me</h6>
